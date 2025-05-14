@@ -1,0 +1,9 @@
+brainGB_GAT.percent_0.5.SwinVIT_D32_P24.0_1
+brainGB_GCN.percent_0.5.SwinVIT_D32_P24.0_1
+GAT.percent_0.5.SwinVIT_D32_P24.0_1
+GCN.percent_0.5.SwinVIT_D32_P24.0_1
+GIN.percent_0.5.SwinVIT_D32_P24.0_1
+GlobalAttentionNet.percent_0.5.SwinVIT_D32_P24.0_1
+GraphSAGE.percent_0.5.SwinVIT_D32_P24.0_1
+SGCN_GAT.percent_0.5.SwinVIT_D32_P24.0_1
+SGCN_GCN.percent_0.5.SwinVIT_D32_P24.0_1
