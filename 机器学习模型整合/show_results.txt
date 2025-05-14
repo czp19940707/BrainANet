@@ -1,0 +1,5 @@
+rest_fMRI_aal116_0.4_0_1_over_standard_Lasso_SVM-RBF
+rest_fMRI_CA_0.4_0_1_over_standard_Lasso_SVM-RBF
+rest_fMRI_CC_0.4_0_1_over_standard_Lasso_SVM-RBF
+rest_fMRI_Dosenbach_0.4_0_1_over_standard_Lasso_SVM-RBF
+rest_fMRI_SCA_0.4_0_1_over_standard_Lasso_SVM-RBF
