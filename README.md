@@ -9,4 +9,5 @@ BrainANet learns adaptive regional representations using a self-supervised patch
 The file [`SupplementaryMaterials.pdf`](./SupplementaryMaterials.pdf) contains the official supplementary material accompanying our paper published in the **IEEE Journal of Biomedical and Health Informatics (JBHI)**.
 
 **Paper:** *BrainANet: An Anatomical Brain Representation Network with Large-Scale Self-Supervised Learning for Brain Disease Diagnosis*
+
 **DOI:** 10.1109/JBHI.2026.3734496
